@@ -1,0 +1,96 @@
+
+}
+;0 nruter
+}
+;rcni-n=n
+}
+;)]i[atadgorp ,"c%"(ftnirp
+esle }
+;rcni+i=i
+;)rcni ,bu ,bl(etouq
+{
+)'@' == ]rcni+i[atadgorp && '@' == ]i[atadgorp( fi
+{ )rcni+i=i ;bu=!i ;bl=i( rof
+{ )0 =! n( elihw
+}
+;1- = rcni
+;1- = bu
+;2-htgnel = bl
+{ esle
+}
+;1 = rcni
+;1-htgnel = bu
+;0 = bl
+{ )0 > n( fi
+;)n& ,"d%"( fnacs
+;)]0[atadgorp(foezis/)atadgorp(foezis = htgnel tni
+;rcni ,bu ,bl ,n ,i tni
+{
+)diov(niam tni
+}
+;)""\"(ftnirp
+}
+;)]i[atadgorp ,"c%"(ftnirp
+esle
+;)"n\\"\n\"\"(ftnirp
+)1-==rcni && 'n\' == ]i[atadgorp( fi esle
+;)""\n\"\n\\"(ftnirp
+)1==rcni && 'n\' == ]i[atadgorp( fi esle
+;)"\\\\"(ftnirp
+)'\\' == ]i[atadgorp( fi esle
+;)""\\\"(ftnirp
+)'"' == ]i[atadgorp( fi
+{ )rcni+i=i ;bu=!i ;bl=i( rof
+;)""\"(ftnirp
+;i tni
+{
+)rcni tni ,bu tni ,bl tni(etouq diov
+;"}"
+"n\;0 nruter"
+"n\}"
+"n\;rcni-n=n"
+"n\}"
+"n\;)]i[atadgorp ,"\c%"\(ftnirp"
+"n\esle }"
+"n\;rcni+i=i"
+"n\;)rcni ,bu ,bl(etouq"
+"n\{"
+"n\)'@' == ]rcni+i[atadgorp && '@' == ]i[atadgorp( fi"
+"n\{ )rcni+i=i ;bu=!i ;bl=i( rof"
+"n\{ )0 =! n( elihw"
+"n\}"
+"n\;1- = rcni"
+"n\;1- = bu"
+"n\;2-htgnel = bl"
+"n\{ esle"
+"n\}"
+"n\;1 = rcni"
+"n\;1-htgnel = bu"
+"n\;0 = bl"
+"n\{ )0 > n( fi"
+"n\;)n& ,"\d%"\( fnacs"
+"n\;)]0[atadgorp(foezis/)atadgorp(foezis = htgnel tni"
+"n\;rcni ,bu ,bl ,n ,i tni"
+"n\{"
+"n\)diov(niam tni"
+"n\}"
+"n\;)"\"\\\"\(ftnirp"
+"n\}"
+"n\;)]i[atadgorp ,"\c%"\(ftnirp"
+"n\esle"
+"n\;)"\n\\\\"\\\n\\"\\\"\(ftnirp"
+"n\)1-==rcni && 'n\\' == ]i[atadgorp( fi esle"
+"n\;)"\"\\\n\\"\\\n\\\\"\(ftnirp"
+"n\)1==rcni && 'n\\' == ]i[atadgorp( fi esle"
+"n\;)"\\\\\\\\\"\(ftnirp"
+"n\)'\\\\' == ]i[atadgorp( fi esle"
+"n\;)"\"\\\\\\\"\(ftnirp"
+"n\)'"\' == ]i[atadgorp( fi"
+"n\{ )rcni+i=i ;bu=!i ;bl=i( rof"
+"n\;)"\"\\\"\(ftnirp"
+"n\;i tni"
+"n\{"
+"n\)rcni tni ,bu tni ,bl tni(etouq diov"
+"n\;@@=][atadgorp rahc tsnoc"
+"n\>h.oidts< edulcni#"=][atadgorp rahc tsnoc
+>h.oidts< edulcni

@@ -1,0 +1,12 @@
+E:\Codes\QTREE\qtree.cpp
+E:\Codes\BRCKTS\brckts.cpp
+E:\Codes\LITE\lite.cpp
+E:\Codes\Self\reverse.cpp
+E:\Codes\QTREE\qtree2.cpp
+E:\Codes\PALIN\palin.cpp
+E:\Codes\strsocu\STRSOCU\STRSOCU\strsocu.cpp
+E:\Codes\WEB\web.cpp
+E:\Codes\XOR\xor.cpp
+E:\Codes\SSHUFFLE\sshuffle\sshuffle\sshuffle.cpp
+E:\Codes\BITMAP\bitmap\bitmap\bitmap.cpp
+E:\Codes\Problem1\problem1\problem1\problem1.cpp

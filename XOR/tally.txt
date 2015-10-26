@@ -1,0 +1,2 @@
+E:\Codes\XOR\xor.cpp
+E:\Codes\XOR\xor
